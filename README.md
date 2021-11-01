@@ -18,4 +18,4 @@ Generating data:
 2. Generated data is stored in `FourBarAngles.csv`.
 3. Execute `couplePoint.mlx` with 2 params for P. This generates the path covered by P for a complete rotation of the crank.
 4. You may run the following command to get a visualization:
-    > stackedplot(T); % is stands for Table here, stored in the workspace
+    > stackedplot(T); % T stands for Table here, stored in the workspace
